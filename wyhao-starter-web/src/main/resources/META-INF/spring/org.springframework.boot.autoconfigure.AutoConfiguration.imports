@@ -1,0 +1,3 @@
+top.wyhao.starter.web.autoconfigure.mvc.WebMvcAutoConfiguration
+top.wyhao.starter.web.autoconfigure.cors.CorsAutoConfiguration
+top.wyhao.starter.web.autoconfigure.server.UndertowAutoConfiguration

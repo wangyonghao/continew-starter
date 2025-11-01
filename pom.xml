@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>top.continew.starter</groupId>
-        <artifactId>continew-starter-dependencies</artifactId>
+        <groupId>top.wyhao.starter</groupId>
+        <artifactId>wyhao-starter-dependencies</artifactId>
         <version>${revision}</version>
-        <relativePath>./continew-starter-dependencies</relativePath>
+        <relativePath>./wyhao-starter-dependencies</relativePath>
     </parent>
 
-    <artifactId>continew-starter</artifactId>
+    <artifactId>wyhao-starter</artifactId>
     <packaging>pom</packaging>
 
     <name>ContiNew Starter</name>
@@ -32,28 +32,28 @@
     </properties>
 
     <modules>
-        <module>continew-starter-dependencies</module>
-        <module>continew-starter-bom</module>
-        <module>continew-starter-core</module>
-        <module>continew-starter-json</module>
-        <module>continew-starter-api-doc</module>
-        <module>continew-starter-validation</module>
-        <module>continew-starter-web</module>
-        <module>continew-starter-cache</module>
-        <module>continew-starter-auth</module>
-        <module>continew-starter-data</module>
-        <module>continew-starter-encrypt</module>
-        <module>continew-starter-security</module>
-        <module>continew-starter-ratelimiter</module>
-        <module>continew-starter-idempotent</module>
-        <module>continew-starter-trace</module>
-        <module>continew-starter-captcha</module>
-        <module>continew-starter-messaging</module>
-        <module>continew-starter-log</module>
-        <module>continew-starter-excel</module>
-        <module>continew-starter-storage</module>
-        <module>continew-starter-license</module>
-        <module>continew-starter-extension</module>
+        <module>wyhao-starter-dependencies</module>
+        <module>wyhao-starter-bom</module>
+        <module>wyhao-starter-core</module>
+        <module>wyhao-starter-json</module>
+        <module>wyhao-starter-api-doc</module>
+        <module>wyhao-starter-validation</module>
+        <module>wyhao-starter-web</module>
+        <module>wyhao-starter-cache</module>
+        <module>wyhao-starter-auth</module>
+        <module>wyhao-starter-data</module>
+        <module>wyhao-starter-encrypt</module>
+        <module>wyhao-starter-security</module>
+        <module>wyhao-starter-ratelimiter</module>
+        <module>wyhao-starter-idempotent</module>
+        <module>wyhao-starter-trace</module>
+        <module>wyhao-starter-captcha</module>
+        <module>wyhao-starter-messaging</module>
+        <module>wyhao-starter-log</module>
+        <module>wyhao-starter-excel</module>
+        <module>wyhao-starter-storage</module>
+        <module>wyhao-starter-license</module>
+        <module>wyhao-starter-extension</module>
     </modules>
 
     <build>
@@ -122,7 +122,7 @@
         </plugins>
     </build>
 
-    <url>https://github.com/continew-org/continew-starter</url>
+    <url>https://github.com/continew-org/wyhao-starter</url>
     <licenses>
         <license>
             <name>GNU LESSER GENERAL PUBLIC LICENSE</name>
@@ -143,8 +143,8 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:continew-org/continew-starter.git</connection>
-        <developerConnection>scm:git:git@github.com:continew-org/continew-starter.git</developerConnection>
-        <url>https://github.com/continew-org/continew-starter</url>
+        <connection>scm:git:git@github.com:continew-org/wyhao-starter.git</connection>
+        <developerConnection>scm:git:git@github.com:continew-org/wyhao-starter.git</developerConnection>
+        <url>https://github.com/continew-org/wyhao-starter</url>
     </scm>
 </project>

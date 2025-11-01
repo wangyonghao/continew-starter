@@ -1,0 +1,2 @@
+top.wyhao.starter.core.autoconfigure.application.ApplicationAutoConfiguration
+top.wyhao.starter.core.autoconfigure.threadpool.ThreadPoolAutoConfiguration

@@ -1,0 +1,7 @@
+{
+  "top.wyhao.starter.idempotent.annotation.Idempotent@key":{
+    "method":{
+      "parameters": true
+    }
+  }
+}
